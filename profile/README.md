@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="csgo_banner" src="assets/csgo_banner.png" />
+ <img alt="csgo_banner" src="https://github.com/BlackMarketSkins/.github/blob/master/profile/assets/csgo_banner.png" />
 </p>
 
 # BlackMarketSkins
