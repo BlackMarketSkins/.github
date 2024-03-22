@@ -1,3 +1,6 @@
+<p align="center">
+ <img alt="csgo_banner" src="assets/csgo_banner.png" />
+</p>
 # BlackMarketSkins
 
 Welcome to BlackMarketSkins, the ultimate platform for CS:GO skin sales and auctions. Discover a market where passion and strategy come together to offer you the best skins in the game.
